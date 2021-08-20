@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string-array name="spinner_valutes">
+        <item>Рубли</item>
+        <item>Доллары</item>
+        <item>Евро</item>
+    </string-array>
+    <string name="RUB">Рубли</string>
+    <string name="EUR">Евро</string>
+    <string name="USD">Доллары</string>
+    <string name="toast">Поле пустое!</string>
+    <string name="button_convert">Конвертировать</string>
+    <string name="enter_number">Введите значение</string>
+    <string name="internet_error">Проверьте соединение с интернетом!</string>
+</resources>
